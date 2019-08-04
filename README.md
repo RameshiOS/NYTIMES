@@ -8,7 +8,7 @@ http://api.nytimes.com/svc/mostpopular/v2/mostviewed/{section}/{period}.json?api
 EX: http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api- key=sample-key 
 
 Here Sample key i recived from NY times developer account and used above api to fetched the results and created app 
-
+![](app.gif)
 ## Requirements
 
 - iOS 8.0+
