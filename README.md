@@ -9,7 +9,7 @@ EX: http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api
 
 Here Sample key i recived from NY times developer account and used above api to fetched the results and created app 
 
-
+![](header.png)
 
 ## Requirements
 
@@ -24,3 +24,8 @@ Here Sample key i recived from NY times developer account and used above api to 
 - [x] select NY Times folder and Open NY Times.xcodeproj file
 - [x] Select any simulator or device 
 - [x] Run the build or press cmd+R on your computer keyboard 
+
+
+## Meta
+
+Ramesh Guddala  – rameshg.iosmobile@gmail.com
