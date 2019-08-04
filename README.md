@@ -11,7 +11,7 @@ Here Sample key i recived from NY times developer account and used above api to 
 
 ## Requirements
 
-- iOS 9.0+
+- iOS 8.0+
 - Xcode 10.3
 
 
