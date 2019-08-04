@@ -9,8 +9,6 @@ EX: http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api
 
 Here Sample key i recived from NY times developer account and used above api to fetched the results and created app 
 
-![](header.png)
-
 ## Requirements
 
 - iOS 9.0+
@@ -25,6 +23,7 @@ Here Sample key i recived from NY times developer account and used above api to 
 - [x] Select any simulator or device 
 - [x] Run the build or press cmd+R on your computer keyboard 
 
+![](header.gif)
 
 ## Meta
 
