@@ -12,7 +12,7 @@ Here Sample key i recived from NY times developer account and used above api to 
 ## Requirements
 
 - iOS 8.0+
-- Xcode 10.3
+- Xcode 10.14
 
 
 
